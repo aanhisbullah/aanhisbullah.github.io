@@ -1,7 +1,4 @@
 # Hi there, I'm Aan Hisbullah - aka [Aan](https://id.linkedin.com/in/aan-hisbullah) 👋
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
-</p>
 
 ## About me:
 #### 🔭 I’m currently working at [PT Tempo Scan Pasific Tbk](https://www.temposcangroup.com/)
